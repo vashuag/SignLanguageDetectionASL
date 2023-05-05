@@ -81,8 +81,8 @@ public class  signLanguageClass {
             public void onClick(View v) {
                 String current_text = change_text.getText().toString();
                 if (current_text.length() > 0) {
-                    String new_text = current_text.substring(0, current_text.length() - 1);
-                    change_text.setText(new_text);
+                    final_text = current_text.substring(0, current_text.length() - 1);
+                    change_text.setText(final_text);
                 }
             }
         });
