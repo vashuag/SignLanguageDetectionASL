@@ -1,6 +1,3 @@
 # SignLanguageDetectionASL
   to download application and use 
-
-  https://drive.google.com/file/d/1_aenj_jCO5isrQ4MjuMSb4TLAlykUhPn/view?usp=sharing
-
-  
+https://drive.google.com/file/d/1hXgD4Alnr5KD8mAEI959bRre-INjYK6S/view?usp=drive_link
